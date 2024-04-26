@@ -4,7 +4,9 @@ Example: A ship 500 feet long is moving on a regular sequence of waves at an ang
          wave to reach from the ship's chest to the ship's heel. Find the speed of the ship. <br />
 <br />
 Solution: 
-    
+
+<image align="right" alt="Milad" width = "300" src="http://up44.ir/previews/54d2659c867de6cd83f16ff70593ea7e.jpg">
+         
 <pre>import math     # library of python for calculate the calculation of below <br />
 µ = 50          # degree <br />
 L = 500         # ship lenght <br />
