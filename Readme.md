@@ -5,9 +5,10 @@ Example: A ship 500 feet long is moving on a regular sequence of waves at an ang
 <br />
 Solution: 
 
-<image align="right" alt="Milad" width = "300" src="http://up44.ir/previews/54d2659c867de6cd83f16ff70593ea7e.jpg">
+<image align="right" alt="Milad" width = "360" src="http://up44.ir/previews/54d2659c867de6cd83f16ff70593ea7e.jpg">
          
-<pre>import math     # library of python for calculate the calculation of below <br />
+<pre>import math     # library of python for calculate 
+                  the calculation of below <br />
 µ = 50          # degree <br />
 L = 500         # ship lenght <br />
 t = 10          # time of passing wave from bow to stern <br />
